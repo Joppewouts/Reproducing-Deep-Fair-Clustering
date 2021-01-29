@@ -1,0 +1,5 @@
+
+amazon
+{'back_pack': 92, 'bike': 82, 'bike_helmet': 72, 'bookcase': 82, 'bottle': 36, 'calculator': 94, 'desktop_computer': 97, 'desk_chair': 91, 'desk_lamp': 97, 'file_cabinet': 81, 'headphones': 99, 'keyboard': 100, 'laptop_computer': 100, 'letter_tray': 98, 'mobile_phone': 100, 'monitor': 99, 'mouse': 100, 'mug': 94, 'paper_notebook': 96, 'pen': 95, 'phone': 93, 'printer': 100, 'projector': 98, 'punchers': 98, 'ring_binder': 90, 'ruler': 75, 'scissors': 100, 'speaker': 99, 'stapler': 99, 'tape_dispenser': 96, 'trash_can': 64}
+webcam
+{'back_pack': 29, 'bike': 21, 'bike_helmet': 28, 'bookcase': 12, 'bottle': 16, 'calculator': 31, 'desktop_computer': 21, 'desk_chair': 40, 'desk_lamp': 18, 'file_cabinet': 19, 'headphones': 27, 'keyboard': 27, 'laptop_computer': 30, 'letter_tray': 19, 'mobile_phone': 30, 'monitor': 43, 'mouse': 30, 'mug': 27, 'paper_notebook': 28, 'pen': 32, 'phone': 16, 'printer': 20, 'projector': 30, 'punchers': 27, 'ring_binder': 40, 'ruler': 11, 'scissors': 25, 'speaker': 30, 'stapler': 24, 'tape_dispenser': 23, 'trash_can': 21}

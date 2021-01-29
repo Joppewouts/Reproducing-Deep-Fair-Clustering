@@ -1,0 +1,1 @@
+## build.sh should be run from this directory in order to build the docs
