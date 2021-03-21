@@ -90,6 +90,10 @@ You can download pretrained models/encoders here:
 
 - [Link to pretrained model/encoder files](https://amsuni-my.sharepoint.com/:f:/g/personal/rodrigo_alejandro_chavez_mulsa_student_uva_nl/ErT0dJvR5whBpwrHFsVmWRsBMFWct2DZst8oN3OL1lp__A)
 
+## Results
+
+![DFC_results](https://user-images.githubusercontent.com/10004251/111918830-44895100-8a87-11eb-9994-13f037ff55ce.png)
+
 ## Contributing
 
 ```text
